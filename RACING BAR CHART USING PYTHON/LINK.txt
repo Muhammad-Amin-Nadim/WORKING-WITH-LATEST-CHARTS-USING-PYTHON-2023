@@ -1,0 +1,1 @@
+https://github.com/diazoniclabs/Machine-Learning-using-sklearn/blob/master/Datasets/covid-19-new.csv
